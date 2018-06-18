@@ -9,4 +9,4 @@ gem "pry", :group => "development"
 #group :development do
 #  gem "pry"
 #end
-gem "rspect", :group => "test"
+gem "rspec", :group => "test"
