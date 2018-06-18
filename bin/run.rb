@@ -7,3 +7,4 @@ Sinatra
 Octokit
 Pry
 AwesomePrint
+Rspect
